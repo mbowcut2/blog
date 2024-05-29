@@ -1,0 +1,9 @@
+[book]
+authors = ["mbowcut2"]
+language = "en"
+multilingual = false
+src = "src"
+title = "blog"
+
+[output.html]
+mathjax-support = true
