@@ -9,6 +9,8 @@ This comes from the very interesting discovery I made a few years ago that MLB w
 
 - Ideas about predictive modeling. The idea of inferring a higher-dimensional reality from observations here. 4D playground. Maybe revisit some TPM readings.
 
+- (Related to above) what is causality? How do we establish it. How does it differ from standard mathematical reasoning?
+
 - Healthcare economics deep dive. (This would probably be too political) How do/should health insurance work. Are there perverse incentives? What do we do about it?
 
 - 
