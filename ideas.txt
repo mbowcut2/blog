@@ -1,0 +1,14 @@
+Potential Topics for Blog Posts:
+
+- Gabriel's Horn. Convergent sum vs divergent surface area. This could be useful in exploring convergence generally.
+
+- It would be fun to do some posts on microeconomic/game theory. Maybe run some simulations of interesting games and such.
+
+- Look at difference in statistics across sports. Which is hardest, most variance in skill, most luck, etc. based on stats like win/loss ratio, elo ratings or whatnot.
+This comes from the very interesting discovery I made a few years ago that MLB win percentages are usually not much higher than .600. So, the game is almost too balanced.
+
+- Ideas about predictive modeling. The idea of inferring a higher-dimensional reality from observations here. 4D playground. Maybe revisit some TPM readings.
+
+- Healthcare economics deep dive. (This would probably be too political) How do/should health insurance work. Are there perverse incentives? What do we do about it?
+
+- 
